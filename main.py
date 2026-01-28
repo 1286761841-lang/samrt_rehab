@@ -14,3 +14,11 @@ async def say_hello(name: str):
 
 
 pass  "hello world"
+
+dfgd
+ah1
+DeprecationWarning
+say_hellog
+
+say_hello
+DeprecationWarning
